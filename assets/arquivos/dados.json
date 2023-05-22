@@ -1,0 +1,61 @@
+{
+    "sobremim":"Formado na FATEC Ribeirão Preto, sou um desenvolvedor web fullstack (com habilidade maior no backend) e tenho familiaridade em trabalhar com banco de dados, desenvolvimento mobile e estou me especializando em engenharia de software.",
+    "telefone":"16 99170-8956",
+    "email":"dididreo@hotmail.com",
+    "experiencia":[{
+        "inicio":"09/22",
+        "fim":"12/22",
+        "empresa":"Nova Digitalização",
+        "cargo":"Estágiario de T.I",
+        "cidade":" Ribeirão Preto",
+        "descricao":"Suporte de T.I: ajuda para reparar computadores (hardware, software próprio e sistema operacional)<br>Desenvolvedor: trabalhei no desenvolvimento de funcionalidades e soluções para um dos softwares próprios deles, criado com o framework Django. As soluções foram desenvolvidas principalmente no backend do sistema, com algumas sendo no frontend.Destaco uma solução para cálculo de metas e bonificações que verifica o trabalho realizado pelos colaboradores para, com a utilização de outros parâmetros, determinar a quantidade de trabalho ideal a ser realizado, e caso seja feito ou superado o quanto de bônus a ser entregue."
+    },
+    {
+        "inicio":"04/22",
+        "fim":"07/22",
+        "empresa":"Imobiliária César Paschoal",
+        "cargo":"Estágiario de T.I",
+        "cidade":" Ribeirão Preto",
+        "descricao":"Suporte: ajudar a resolver problemas nos computadores <br>Análise: Verificar as funcionalidades, páginas e módulos do sistema para garantir suas funcionalidades e detectar erros ou melhorias. Engenharia de software: presente em todas as etapas do desenvolvimento de um sistema voltada para a especificação e manutenção do sistema através de práticas e ferramentas visando qualidade e produtividade."
+    }],
+    "habilidades":["Programação Web","Engenharia de software","UI Design","Banco de dados"],
+    "linguagens":["Python","HTML","CSS","JavaScript","PHP","Boostrap","JQuery","SQL"],
+    "educacao":[{
+        "inicio":"2019",
+        "fim":"2022",
+        "instituicao":"FATEC Ribeirão Preto",
+        "descricao":"As Faculdades de Tecnologia são instituições de ensino superior públicas brasileiras",
+        "cidade":" Ribeirão Preto",
+        "curso":"Análise e desenvolvimento de sistemas"
+    },
+    {
+        "inicio":"2017",
+        "fim":"2018",
+        "instituicao":"ETEC",
+        "descricao":"As Etecs são instituições de ensinos técnico, médio e integrado ao médio, pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza.",
+        "cidade":" Ribeirão Preto",
+        "curso":"Serviços jurídicos"
+    },
+    {
+        "inicio":"2004",
+        "fim":"2015",
+        "instituicao":"Anchieta/Fernandes Palma",
+        "descricao":"Feito no Colégio Anchieta e no EE Prof. Sebastião Fernandes Palma.",
+        "cidade":" Ribeirão Preto",
+        "curso":"Ensino médio"
+    }] ,
+    "projetos":[
+        {
+            "nome":"AleatoriCast",
+            "capa":"assets/img/alsite.png",
+            "link":"",
+            "descricao":"Site de divulgação do projeto de podcast AleatoriCast, onde os apresentadores conversam com diversos tipos de pessoas (comuns e possívelmente famosas) a fim de apresentar visões diversas de mundo e incontáveis histórias interessantes. O site foi desenvolvido empregando as ferramentas Django, Bootstrap, JQuery, GCloud."
+        },
+        {
+            "nome":"IDM Market",
+            "capa":"assets/img/idmsite3.png",
+            "link":"",
+            "descricao":"Plataforma de Marketing Digital, onde se encontrará artigos e sugestões de produtos para se desenvolver na área e para ajudar seu negócio. O site foi desenvolvido empregando as ferramentas Django, Bootstrap, JQuery, GCloud."
+        }
+    ]
+}
