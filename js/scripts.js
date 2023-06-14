@@ -101,7 +101,7 @@ fetch("assets/arquivos/dados.json").then((resposta)=>{
             var projetos = dados.projetos
 
             projetos.forEach((pr)=>{
-                $('#projetos').append(`<div class="card mb-3 shadow rounded-4 mb-2"><img src="${pr.capa}" class="card-img-top rounded-topo" alt="banner do projeto"><div class="card-body"><h5 class="card-title">${pr.nome}</h5><p class="card-text">${pr.descricao}</p><a href="${pr.link}" class="btn btn-success ms-2">Visitar</a></div></div>`)
+                $('#projetos').append(`<div class="card mb-3 shadow rounded-4 mb-2"><img src="${pr.capa}" class="card-img-top rounded-topo" alt="banner do projeto"><div class="card-body"><h5 class="card-title">${pr.nome}</h5><p class="card-text">${pr.descricao}</p><a href="${pr.link}" class="btn btn-success ms-2" target="_blank">Visitar</a></div></div>`)
             })
 
             
