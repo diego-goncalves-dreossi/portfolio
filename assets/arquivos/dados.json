@@ -8,7 +8,7 @@
         "empresa":"Nova Digitalização",
         "cargo":"Estágiario de T.I",
         "cidade":" Ribeirão Preto",
-        "descricao":"Suporte de T.I: ajuda para reparar computadores (hardware, software próprio e sistema operacional)<br>Desenvolvedor: trabalhei no desenvolvimento de funcionalidades e soluções para um dos softwares próprios deles, criado com o framework Django. As soluções foram desenvolvidas principalmente no backend do sistema, com algumas sendo no frontend.Destaco uma solução para cálculo de metas e bonificações que verifica o trabalho realizado pelos colaboradores para, com a utilização de outros parâmetros, determinar a quantidade de trabalho ideal a ser realizado, e caso seja feito ou superado o quanto de bônus a ser entregue."
+        "descricao":"Desenvolvimento de funcionalidades e soluções para um software próprio criado com o framework Django. As soluções foram desenvolvidas no backend e frontend.<br>Destaque para ua solução de cálculo de emtas e bonificações que verifica o trabalho realizado pelos colaboradores para que, com a utilização de outros parâmetros, possa determinar a bonificação a ser acertada."
     },
     {
         "inicio":"04/22",
@@ -16,7 +16,7 @@
         "empresa":"Imobiliária César Paschoal",
         "cargo":"Estágiario de T.I",
         "cidade":" Ribeirão Preto",
-        "descricao":"Suporte: ajudar a resolver problemas nos computadores <br>Análise: Verificar as funcionalidades, páginas e módulos do sistema para garantir suas funcionalidades e detectar erros ou melhorias. Engenharia de software: presente em todas as etapas do desenvolvimento de um sistema voltada para a especificação e manutenção do sistema através de práticas e ferramentas visando qualidade e produtividade."
+        "descricao":"<strong>Análise</strong>: Verificar as páginas e módulos do sistema para garantir suas funcionalidades e detectar erros e desenvolver melhorias.<br><strong>Engenharia de software</strong>: Auxílio na manutenção do software para garantir qualidade e produtividade"
     }],
     "habilidades":["Programação Web","Engenharia de software","UI Design","Banco de dados"],
     "linguagens":["Python","HTML","CSS","JavaScript","PHP","Boostrap","JQuery","SQL"],
