@@ -45,7 +45,6 @@ fetch("assets/arquivos/dados.json").then((resposta)=>{
             var habilidades = dados.habilidades
             var ind = 0
             var linha = 1
-            //$('#habilidades').append(`<div class="row row-cols-1 row-cols-md-3 mb-4 linha${linha}"></div>`)
             
 
             for(var z = 0;z < habilidades.length; z++){
@@ -103,10 +102,6 @@ fetch("assets/arquivos/dados.json").then((resposta)=>{
             projetos.forEach((pr)=>{
                 $('#projetos').append(`<div class="card mb-3 shadow rounded-4 mb-2"><img src="${pr.capa}" class="card-img-top rounded-topo" alt="banner do projeto"><div class="card-body"><h5 class="card-title">${pr.nome}</h5><p class="card-text">${pr.descricao}</p><a href="${pr.link}" class="btn btn-success ms-2" target="_blank">Visitar</a></div></div>`)
             })
-
-            
-
-//`<div class="card overflow-hidden shadow rounded-4 border-0 mb-5"><div class="card-body p-0"><div class="d-flex align-items-center"><div class="p-5"><h2 class="fw-bolder">${pr.nome}</h2><p>${pr.descricao}</p><br><a href="" class="btn btn-success ms-2">Visitar</a></div><img class="img-fluid" src="${pr.capa}" alt="..." /></div></div></div>`
         }
 
 

@@ -50,6 +50,12 @@
             "capa":"assets/img/idmsite3.png",
             "link":"https://idmmarket.app/",
             "descricao":"Plataforma de Marketing Digital, onde se encontrará artigos e sugestões de produtos para se desenvolver na área e para ajudar seu negócio. O site foi desenvolvido empregando as ferramentas Django, Bootstrap, JQuery, GCloud."
+        },
+        {
+            "nome":"AleatoriCast",
+            "capa":"assets/img/aleatoricastfoto.png",
+            "link":"https://aleatoricast.onrender.com/",
+            "descricao":"Site de divulgação do projeto de podcast AleatoriCast, onde os apresentadores conversam com diversos tipos de pessoas (comuns e possívelmente famosas) a fim de apresentar visões diversas de mundo e incontáveis histórias interessantes. O site foi desenvolvido empregando as ferramentas Django, Bootstrap, JQuery, GCloud."
         }
     ]
 }
