@@ -104,6 +104,16 @@ fetch("assets/arquivos/dados.json").then((resposta)=>{
             })
         }
 
+        if($('#landing-pages').length){
+            console.log('Chegou a landing-pages')
+            var pages = dados.landingpages
+            console.log(pages)
+
+            pages.forEach((pg)=>{
+                $('#landing-pages').append(`<div class="card mb-3 shadow rounded-4 mb-2"><img src="${pg.capa}" class="card-img-top rounded-topo" alt="banner da landing page"><div class="card-body"><h5 class="card-title">${pg.nome}</h5><p class="card-text">${pg.descricao}</p><a href="${pg.link}" class="btn btn-success ms-2" target="_blank">Visitar</a></div></div>`)
+            })
+        }
+
 
     })
 })

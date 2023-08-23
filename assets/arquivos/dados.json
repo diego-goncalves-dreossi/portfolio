@@ -57,5 +57,43 @@
             "link":"https://aleatoricast.onrender.com/",
             "descricao":"Site de divulgação do projeto de podcast AleatoriCast, onde os apresentadores conversam com diversos tipos de pessoas (comuns e possívelmente famosas) a fim de apresentar visões diversas de mundo e incontáveis histórias interessantes. O site foi desenvolvido empregando as ferramentas Django, Bootstrap, JQuery, GCloud."
         }
+    ],
+    "landingpages":[
+        {
+            "capa":"assets/img/lppod.png",
+            "link":"https://podcast-landing-page-eight.vercel.app/",
+            "nome":"Podcast",
+            "descricao":"Página de venda para um podcast, criado por mim mesmo."
+        },
+        {
+            "capa":"assets/img/lpquadrinho.png",
+            "link":"https://quadrinho-lp.vercel.app/",
+            "nome":"Quadrinho",
+            "descricao":"Página de venda para uma história em quadrinos, criado por mim mesmo."
+        },
+        {
+            "capa":"assets/img/lpfoto.png",
+            "link":"https://pag-boostrap.vercel.app/",
+            "nome":"Fotografia",
+            "descricao":"Página de venda para fotografos."
+        },
+        {
+            "capa":"assets/img/lpbot.png",
+            "link":"https://page-bot.vercel.app/",
+            "nome":"Bot",
+            "descricao":"Página de venda para um bot criado por  Rafaella Ballerini ."
+        },
+        {
+            "capa":"assets/img/lpnews.png",
+            "link":"https://pagina-phi.vercel.app/",
+            "nome":"Newsletter",
+            "descricao":"Página de venda para uma newsletter criada por Alexandre Saints."
+        },
+        {
+            "capa":"assets/img/lpdecor.png",
+            "link":"https://indecor-weld.vercel.app/",
+            "nome":"Evento de decoração",
+            "descricao":"Página de venda para um evento de decoração, criado por Matheus Battisti."
+        }
     ]
 }
